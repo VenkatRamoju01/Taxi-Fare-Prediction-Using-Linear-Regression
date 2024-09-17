@@ -4,8 +4,8 @@ In this project, I built and evaluated a multiple linear regression model to pre
 
 I have broken down the entire process into four stages: Plan, Analyze, Construct, and Evaluate (PACE). The actions performed under each stage are as follows:
 
-- [**Plan – Understanding the data within the problem/business context**]()
-- [**Analyze – Conducting exploratory data analysis, visualizations**]()
-    - [**Feature Engineering**]()
-- [**Construct – Building multiple regression model**]()
-- [**Evaluate – Interpreting the model results**]()
+- **Plan – Understanding the data within the problem/business context**
+- **Analyze – Conducting exploratory data analysis, visualizations**
+    - **Feature Engineering**
+- **Construct – Building multiple regression model**
+- **Evaluate – Interpreting the model results**
